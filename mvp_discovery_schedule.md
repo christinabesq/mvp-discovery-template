@@ -2,9 +2,10 @@
 ##Estimated Time Investment
 * Team Intros: **0.25 hours**
 * MVP Discovery Introduction: **0.25 hours**
-* Problem Statement: **1.25 hours**
-* Identifying Client and End User: **1.25 hours**
-* Critical Path: **1.00 hours**
+* Competitors and Similar Services: **0.5 hours**
+* Problem Statement: **1 hour**
+* Identifying Client and End User: **1 hour**
+* Critical Path: **1 hour**
 
 Total: **4 hours**
 
