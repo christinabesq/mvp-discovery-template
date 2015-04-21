@@ -102,7 +102,7 @@ While the actual person who uses the product is the **End User**. Identifying th
 ## Define the Critical Path
 Once completed, the Critical Path should give a step-by-step map of the user's most critical experience, from having the problem to solving the problem, and every step in-between.
 
-The Purpose of choosing a critical path is so that we invest the majority of our energies into the most important part of the project. There are are a lot of important decisions that go into creating a great product, but **at this stage of the project it's very important that we focus on the features that give the highest return on our time investment**. It's easy to get lost in the weeds of a project, but staying on task at this stage is necessary when creating a great product.
+The Purpose of choosing a critical path is so that we invest the majority of our energies into the most important part of the project. There are are a lot of important decisions that go into creating a great product, but **at this stage of the project it's very important that we focus on the features that give the highest return on our time investment**. This will ensure a strong foundation from which we will continue expanding the product over time. 
 
 
   	
